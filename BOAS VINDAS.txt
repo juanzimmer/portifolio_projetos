@@ -1,0 +1,64 @@
+BOAS VINDAS
+
+Olá, seja muito bem-vindo(a) ao meu portifólio de projeto de Cinecia de Dados.
+Nessa página, eu demostro minhas habilidade de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de dados públicos.
+Você vai encontrar também, minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
+
+Sinta-se à vontade para entrar em contato através dos links no final da página.
+
+
+SOBRE MIM
+
+Me chamo Juan Zimmermann, sou estudante de Data Science e estatística, trabalho com dados para gerar insights, responder perguntas e solucionar problemas de negócios.
+Atualmente trabalho com projetos pessoais sobre Ciência de dados, para adquirir experiência na solução de problemas de negócio e domínio sobre as ferramentas de análise de dados.
+Estou buscando uma oportunidade de trabalhar profissionalmente como Cientista de Dados para melhorar a tomada de decisão da empresa, através da construção de soluções usando dados.
+
+
+HABILIDADES
+
+Linguagens de Programação e Banco de Dados
+-Python para análise de dados
+-Web Scraping com python
+-SQL para extração de dados
+-Banco de Dados SQLite, PostgreSQL, MySQL, Oracle, MongoDB e Cassandra
+
+Estatística
+-Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
+
+Visualização de Dados
+-Matplotlib, Seaborn, Plotly e Bokeh.
+-Power BI, Tableu, Metabase e Looker.
+
+Engenharia de Software
+-Git, Github, Gitlab, Cookiecutter, Virtual Environment e Docker
+-Streamlit, Flask, Python API´s.
+
+EXPERIÊNCIAS
+
+4+ Projetos Completos de Ciência de Dados
+-construção de soluções de dados para problemas de negócios, próximo dos desafios reais das empresas, utilizando dados públicos de competições de Ciência de Dados, onde eu abordei o problemas desde a concepção do desafio até a publicação do algoritmo treinado em produção, utilizando ferramentas de Cloud Computing.
+
+Analista de Dados
+-Responsavel por realizar tratamento de Base de Dados da Prefeitura Municipal do Recife, onde esse dados eram aplicados a programas sociais e projetos para melhoria da cidade do Recife.
+Gerar insights com os principais pontos para uma tomada de decisão mais assertiva por parte das secretarias vinculadas a prefeitura do Recife.
+
+Suporte T.I
+- Sempre ligado em tecnologia, consegui meu primeiro emprego de carteira assinada como suporte de T.I, onde entre minhas unúmeras funções, exercia o papel administrativo, contábio e de suporte de Hardware e Software.
+Realizei algumas automações de trabalhos repetitivos diários, foi onde tive mais acesso a outros campos da empresa, até chegar efetivamente a trabalhar com dados.
+
+PROJETOS DE CIÊNCIA DE DADOS
+
+-Cosntrução de dashboards para insights empresariais
+utilização de python para responder perguntas de negócios, análise de padrões comportamentais e visões métricas. Com o objetivo de tornar tomada de decisões por parte de CEO´s e diretoria, mais rápidas e acertivas.
+
+Ferramentas utilizadas:
+-Git, Gitlab, Matplotlib e Seaborn
+-Jupyter Notebook
+-Streamlit
+
+
+CONTATO
+
+-Sinta-se à vontade para entrar em contato:
+-LinkedIn
+-Email

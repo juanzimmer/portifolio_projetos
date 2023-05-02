@@ -1,0 +1,68 @@
+## 1. Boas vindas
+
+Objetivo: Receber o visitante da pagina
+	
+	-saudação
+
+Elementos: 
+	
+	-oq é essa pagina de portifolio de projetos
+	-oq o visitante vai encontrar nessa pagina
+
+## 2. Sobre mim
+
+Objetivo: Quem é você?
+	
+	-Quem é você?
+	-Oq anda fazendo/estudando sobre data science
+
+Elementos:
+	
+	-Oq você faz atualmente de maneira profissional?
+	-Quais as oportunidades/profissão/papeis que está buscando?
+
+## 3. Habilidades
+
+Objetivo: Mostrar habilidades adquiridas em ciencia de dados
+	
+	-Quais ferramentas e métodos da ciencia de dados que você tem experiencia?
+		
+		-liguagem a programação(coleta, manipular, e extrair conhecimento dos dados.
+		-Estatistica e de machine learning(métodos e algoritmos)
+		-Visualização de dados(pacotes e ferramentas de visualização de dados.
+		-Engenharia de software
+
+## 4. Experiencias
+
+Objetivo: mostrar suas experiencias atuais
+
+	-Experiencia em ciencia de dados.
+
+	-Experiencias do trabalho atual
+
+## 5. Projetos de ciencia de dados
+
+Objetivo: Mostrar os projetos de portifolio de ciencia de dados
+
+	-Demonstrar nossa capacidade de resolver problemas de negócio usando dados, ferramentas e conhecimentop em ciencia de dados.
+
+Elementos:
+
+	-Titulo do projeto 
+
+	-Descrição da solução cosntruida
+
+	-Ferramentas utilizadas
+
+## 6. Contato
+
+Objetivo: Fornecer uma forma de entrar em contato
+
+	-LinkedIn
+
+	-Email
+
+
+
+
+
